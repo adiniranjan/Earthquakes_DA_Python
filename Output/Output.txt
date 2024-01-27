@@ -1,7 +1,7 @@
 The total number of earthquakes are: 11745. 
 The total number of actual earthquakes after removing data anomalies are: 11556. 
 
-The place of maximum impact based on people is: 6km NNE of Magna, Utah; where 1290 people were affected. 
+The place of maximum impact based on cases is: 6km NNE of Magna, Utah; where 1290 people were affected. 
 
 The magnitude range of earthquakes are as follows: 
 The Largest earthquake with magnitude 6.3 took place at 298km NE of Raoul Island, New Zealand.
