@@ -12,7 +12,7 @@ The results are stored in **Output** folder named *EQ_data.json*, *EQ_location.c
 
 ### Analyze.py
 This is the main python file that contains various cases and code.
-We have used **json**, **collections**, **string**, **csv**, **datetime**, *pprint* libraries.
+We have used **json**, **collections**, **string**, **csv**, **datetime**, **pprint** libraries.
 
 **Functions:**
 * *total_quake()* To find the total number of actual earthquakes after removing anomalies.
