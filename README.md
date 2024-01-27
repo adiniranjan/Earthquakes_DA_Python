@@ -6,4 +6,6 @@
 The source data is stored in **Data** folder as a .json file which contains important fields like magnitude, place, link, detail, cases, significance, type, coordinates, etc. We will use this data to draw various conclusions and perform analysis.
 
 ### Output
+The results are stored in **Output** folder named *EQ_data.json*, *EQ_location.csv*, *Output.txt* each for diffrent set of analysis performed.
+
 ### Analyze.py
