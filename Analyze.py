@@ -31,7 +31,7 @@ def max_impact():
         return 0 if felt is None else float(felt)
     value = max(dataset, key = if_felt)
     with open("Output\\Output.txt", 'a+') as output:
-        output.write(f"The place of maximum impact based on people is: {value['properties']['place']}; where {value['properties']['sig']} people were affected. \n\n")
+        output.write(f"The place of maximum impact based on cases is: {value['properties']['place']}; where {value['properties']['sig']} people were affected. \n\n")
     return
 
 # To find the Most and Least significant earthquake
